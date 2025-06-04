@@ -1,0 +1,44 @@
+{
+    "DF-UTS_amounts": [],
+    "DF-UTS_proof": [],
+    "DF-UTS_id": [],
+    "USX-UTS_amounts": [],
+    "USX-UTS_proof": [],
+    "USX-UTS_id": [],
+    "amounts": [
+        "0",
+        "0"
+    ],
+    "proof": [
+        [
+            "0xc6de98512f646fdef1505e841f4aeadb63c5e8e5f0e930de7ae46f30ddefe59f",
+            "0x274996272602aaaaae1ca0bb23b10b5f9579d11da4ebae246f7dae2205877704",
+            "0x35c5e4f4db0663bf4e6410c80f79387dd18930238efeac1ab8696e3afe322bd6",
+            "0xf831ee6460b7d7b2047fea8ddfc1d1e47df3c2af041f38a78ef22810f553fb58",
+            "0x246db6e76cac0684459e42172c8aa412345da4d5e9063982cb61b8ee69298b86",
+            "0x69d60f1463feb0858603c8a7e9eaeb535aaa0aab3035de6dce9051e314c726df",
+            "0x33f28074d4ff475581c037dd504dda72f586f1862d4beedfda7ebed1b218f6b1",
+            "0x5ba144c086231fa4211d2970e7fb1b723963651a47280341a5b264f8d0f5c8a3",
+            "0xc38e96c11163396e323c2d376a16fbedbfdb5396b30f182aff8db6b4c081eae0",
+            "0x5f7f0006e307f85e492ac41dfdb89b8feddbbe24ec3fe103af0cf9327d8facfb",
+            "0xee99b3b219788fca9fa3bb5f492d71169f50ea04b47f95116d1021099436297c"
+        ],
+        [
+            "0xc6de98512f646fdef1505e841f4aeadb63c5e8e5f0e930de7ae46f30ddefe59f",
+            "0x274996272602aaaaae1ca0bb23b10b5f9579d11da4ebae246f7dae2205877704",
+            "0x35c5e4f4db0663bf4e6410c80f79387dd18930238efeac1ab8696e3afe322bd6",
+            "0xf831ee6460b7d7b2047fea8ddfc1d1e47df3c2af041f38a78ef22810f553fb58",
+            "0x246db6e76cac0684459e42172c8aa412345da4d5e9063982cb61b8ee69298b86",
+            "0x69d60f1463feb0858603c8a7e9eaeb535aaa0aab3035de6dce9051e314c726df",
+            "0x60347070f98810a23a5da7388cd03ab90a43c135f5ee026729c0db56bb694cb9",
+            "0x50edbc27aee048e58de108454a330b95db513af15c39a4bb935a9fe3255e93be",
+            "0xacea324d587761c1b613d0870816de80ee626ee0f8e1724b9a7c3193f086dec3",
+            "0xba078b6b2b2b2e6c78e9411d22b95c0eab8171b2934c5c27d115710f0dfac0d0",
+            "0xa2a79249f35617f79220869f9cf06208c3c44b82e2cf027411951416ef9bc223"
+        ]
+    ],
+    "id": [
+        "51",
+        "52"
+    ]
+}

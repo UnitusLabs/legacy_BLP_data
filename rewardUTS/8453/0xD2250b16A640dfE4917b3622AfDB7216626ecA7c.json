@@ -1,0 +1,25 @@
+{
+    "DF-UTS_amounts": [],
+    "DF-UTS_proof": [],
+    "DF-UTS_id": [],
+    "USX-UTS_amounts": [],
+    "USX-UTS_proof": [],
+    "USX-UTS_id": [],
+    "amounts": [
+        "0"
+    ],
+    "proof": [
+        [
+            "0xc85750eb3f722c1deffbc4b748e7a16b81efa29ae3236624a87f22336ac62908",
+            "0x2d905b7df69a12df14beb4449931444c432251ac9f6ec1e7004fdb9f7e774c43",
+            "0x52557079bf547792e23d4e03438a5b19e69824c0da0e996a4954d7cab61b2d27",
+            "0x71c842a3ed0505d1a5075a16c46b864f8dbb13539cad99398f33bbf806ae62a5",
+            "0x932b51033df8ae163dc83b080e7716bc95351e54c423ccef22e0d20cd170427d",
+            "0xedb5658d561d5f6d709cb70a8f52d2b227a72025af34bf876fc86fafa2fea9c2",
+            "0x3a67c7c8128475a2beb93a3e661fa83cbc7c67274caa4d6ab21cc8b4f6b01ff7"
+        ]
+    ],
+    "id": [
+        "32"
+    ]
+}

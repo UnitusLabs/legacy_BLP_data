@@ -1,0 +1,36 @@
+{
+    "DF-UTS_amounts": [],
+    "DF-UTS_proof": [],
+    "DF-UTS_id": [],
+    "USX-UTS_amounts": [],
+    "USX-UTS_proof": [],
+    "USX-UTS_id": [],
+    "amounts": [
+        "0",
+        "0"
+    ],
+    "proof": [
+        [
+            "0x813154eacec10d8b7fb1bdef1a683076221e15fdb0a637e116f245469f11e623",
+            "0x0b8f296fb5632f21267004f792a18103a1d25431c4bac3373dfd9adc4b0543da",
+            "0x904c3140d9e2cd50784e580834c318dd34970ad68b90a1c18337224db1d1a63c",
+            "0x5f6f62dc44675b2c713338aa4544f899099b77a979474099351d42a9b08dd7fa",
+            "0x6199880211ffabd1a2007938ed149121dad708299cf8649237fd63e62d83bd34",
+            "0x5df459c9c28f055d1f0a6c7c0bdeff262de4ab03a11009a0e822d8d4d00145db",
+            "0x5bc8891ab78727ec6c6dc6c2b5fd065049e3047f556ff44f1bbef1da3fb69159"
+        ],
+        [
+            "0x813154eacec10d8b7fb1bdef1a683076221e15fdb0a637e116f245469f11e623",
+            "0x6082d1e077bcd040c316a4e62dc6cdcdca57d331bed07d3ece3f69e1ab12879f",
+            "0x5cb6d3859e5e8040df2535c790653220741dae1bab52f09a04717e4bb59c1462",
+            "0xc6c4ec61c13718c4f319874ebfc3073a413d14d34c20fdb92c50a7e3128d292c",
+            "0x3e490948665558ba440028de6b9eeb80f9242221cee436937f58c83698a1f09e",
+            "0x29a951abaf97354b8c8340a2bdc7af4f17077e093737ec4413bd8f02e8aac0cf",
+            "0x3a67c7c8128475a2beb93a3e661fa83cbc7c67274caa4d6ab21cc8b4f6b01ff7"
+        ]
+    ],
+    "id": [
+        "31",
+        "32"
+    ]
+}

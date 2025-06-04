@@ -1,0 +1,29 @@
+{
+    "DF-UTS_amounts": [],
+    "DF-UTS_proof": [],
+    "DF-UTS_id": [],
+    "USX-UTS_amounts": [],
+    "USX-UTS_proof": [],
+    "USX-UTS_id": [],
+    "amounts": [
+        "0"
+    ],
+    "proof": [
+        [
+            "0x8d3446031ba1bb184cf45faaf889aa0be293a9b0683c2d6010e72e8a8842c7a7",
+            "0x5edc8a104d17496f75625d75f466ff9c14b412f44de4dac387d92fb2b35f1443",
+            "0x95a112c786ee736ec791abba9ed3bdde687147283747a2a8f06242bc30bf482e",
+            "0xeaf2f9f0119066880b19b5e8dbcc4aeaf2aa545a39631bd18237509762701d62",
+            "0x4959eddff803511a59a33009d25ebb47a1d63707a7b0b4a998dfbb8f6b1606b9",
+            "0xfa0c6a718cb43c2f1ef981048bbabcef3e462e7db95d55637e432a3b9861de82",
+            "0x6e29f3d502eb99791c65853dad2eb0cc99acb5f4d5daf9119bfb6053e69ca72b",
+            "0xea62fe898343144de604d1f36d2072e32f8ef6b82eca73cfb9bd067ce5833d94",
+            "0x3ddb3828f2a04beff92bdbaf15bdd56e3b0e42811722bc1ba553245f8c3933bf",
+            "0xc7139a5f36541e6e242b4393a3dd0011ce3d88458b87fbcac015bd95ca8efe70",
+            "0xa1ce79835239e24a2cacd91ac7a6b31d25512549b9048b96f4163d23bb39b681"
+        ]
+    ],
+    "id": [
+        "52"
+    ]
+}

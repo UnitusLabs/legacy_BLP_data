@@ -1,0 +1,58 @@
+{
+    "DF-UTS_amounts": [],
+    "DF-UTS_proof": [],
+    "DF-UTS_id": [],
+    "USX-UTS_amounts": [],
+    "USX-UTS_proof": [],
+    "USX-UTS_id": [],
+    "amounts": [
+        "0",
+        "0",
+        "0",
+        "0"
+    ],
+    "proof": [
+        [
+            "0x6d0ca50fb614fc7fb191238427d4ee3bbb1294f656f039a2739696e4bb15c612",
+            "0x89c6db038737dc18fb67e5d79e232c5250e11923520b5965fc195dd54da74d24",
+            "0x8296e27eadb703c60627d4f198c5215540f00c7f59f86e0acd9cb7049c66eaad",
+            "0x6be09ca71099ae846bec84d96e4d5b5891f38b900f0fffcca4147e6bfe3ebca9",
+            "0xff3d19b5c213458c2ca3ac6efc04042baf03428bd17fdb7be684e541ed5b8cd6",
+            "0xa9e1947175c55dbc1d4186725873392d71a193a1dab09af7e299e575b439ef69",
+            "0x4a672132acbaaf01cf5f9774cb2b9f388e83014a404d46d5736d173e11a4fb70"
+        ],
+        [
+            "0x6aea956c4127807ed93857767ed8cd68f4afea48e3c2810475434d8fae1f735e",
+            "0xce35a01c03766ed43b93bcacc0a8d0bca826b57d13e44ced57d41fcf1f94183d",
+            "0xa33d533236fca937e61ce0c93521c9079db2807440779dd04a764009317c1e95",
+            "0x9551b9173946076a6c75e263c1b156a390cc06502123d8c10ebfe03d47905ad7",
+            "0x337ecff53bc7566aa616080390e2d721581f590a65c9af4e3c05fd3f815d0510",
+            "0x8dcd2e00d5b4a10c6ce7177102432ee85d49d879c8c5dc2c29fff0538d686db5",
+            "0x1eb1f20b412e13a1359331a30163466adf0d4f85a4220b69a0679423afde2414"
+        ],
+        [
+            "0x6d0ca50fb614fc7fb191238427d4ee3bbb1294f656f039a2739696e4bb15c612",
+            "0x1f57f8bb0326f7862cbf80a609b24c8f9b719fdd0ee596deec086f03d8732e69",
+            "0x6d8ba86fb397dbf2228f461d432d009c971451e51c73deb208718dc3ff4472d0",
+            "0xe1b78b8995c5fcaf187ac5b4f59fa135b070cdc2e0be881c3edc73ed817f8632",
+            "0xcff82140cd12f3573950f9c420ef41fa887cd21bb5689c3332907872d184d5df",
+            "0x5df459c9c28f055d1f0a6c7c0bdeff262de4ab03a11009a0e822d8d4d00145db",
+            "0x5bc8891ab78727ec6c6dc6c2b5fd065049e3047f556ff44f1bbef1da3fb69159"
+        ],
+        [
+            "0x6d0ca50fb614fc7fb191238427d4ee3bbb1294f656f039a2739696e4bb15c612",
+            "0xd60664ef2eb656d6d1bdc2815a1a9ffcc4f5cc97eeedc21ef5c5d1041c410cb3",
+            "0xd587fe1072a53d317959eef98be8a1047c00ab7661aa29744b7db91dc74409f2",
+            "0x4f30289d9f4388b0f58c71b6816f22265a7ed9788e5dfd84a4b4c7c6d042f0a2",
+            "0x603f825a4abdb3276660f41ff08815b31f2c7aa5b31db2afc5a553dfae5924a9",
+            "0x29a951abaf97354b8c8340a2bdc7af4f17077e093737ec4413bd8f02e8aac0cf",
+            "0x3a67c7c8128475a2beb93a3e661fa83cbc7c67274caa4d6ab21cc8b4f6b01ff7"
+        ]
+    ],
+    "id": [
+        "29",
+        "30",
+        "31",
+        "32"
+    ]
+}

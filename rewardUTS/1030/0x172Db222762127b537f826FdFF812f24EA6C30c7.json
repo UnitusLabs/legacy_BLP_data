@@ -1,0 +1,47 @@
+{
+    "DF-UTS_amounts": [],
+    "DF-UTS_proof": [],
+    "DF-UTS_id": [],
+    "USX-UTS_amounts": [],
+    "USX-UTS_proof": [],
+    "USX-UTS_id": [],
+    "amounts": [
+        "0",
+        "0",
+        "0"
+    ],
+    "proof": [
+        [
+            "0x59a6793f97d7dbdbae8f415e5b31cbf8a6d3aa05b422b5413d3b69707a457a5e",
+            "0xc987121481a6af28ce7e79b53ff77b493eb2ff5ab1806485b9bcde5d77df48af",
+            "0xd12e508efb4f78c8938cee4183514ce8b7e3bf0b3fabfbd8a7ab370c170fdf81",
+            "0xce0129dd8af11f62c16aeb4941538f02b23ede28965ee383d7725cb8f290f277",
+            "0xc8a00b890be619f0cf7116737e29265d0a2786904c5a3bb7e54ab4de1ab41875",
+            "0x69f3f590b59d2dd76782bfb4410353f2626a344ce27dfeaa2a22e997d8b07d99",
+            "0x463b03b82fadf4a937fedd0e8f849d232a9c19e10b4fcadf3e54e8b6830a9c99"
+        ],
+        [
+            "0x5cc54a594e9b93978c7da6cffed0d2318f12c95d8432be34ad9121fc5b2fc13b",
+            "0x22de9f1036af7e377df294e6bb8414e52809018363eee10bc0c2f39a0d671e17",
+            "0x09439a349d91eb53540926bff740d098e427368a634d2ba13894dac81f0f1fcf",
+            "0x42384b7dee1965c26092b2e73bae2347688fb7ceabcfaba82965dd85410d22ed",
+            "0x6274f99b085971f0c95c5baa976aef509c2984634e0957c4367bcf71aef3105e",
+            "0x2282ce16f32f4d8e9992f34d1ecb2a454c6ebd0e8af1c5717e81d67918526898",
+            "0x691b9a1c0db39da07e838ae38c637fa1af90b020646a24d902faa4b6df92efd8"
+        ],
+        [
+            "0x59a6793f97d7dbdbae8f415e5b31cbf8a6d3aa05b422b5413d3b69707a457a5e",
+            "0xd83a643f56cd42367885fbde7252b88382d18582b88475ba27df524d8ac15a79",
+            "0xba156642600d915c18ed0f14c8a425edbb32be63750216e6406ab07b0b88d0f1",
+            "0xd21164485447862e3221dbe20fa8b5b23d5e548491e75c34f92abf3913aee6ce",
+            "0x43f6c8d3bbed525fa2d82cef76b6f1a13cb623681d5aadb32b941fc233a0a85b",
+            "0x05f87da3f1c1bd6eee1fd36f3ec92a654abcbf65a237fb263b8f00a2baedb996",
+            "0x8eb0edd63f403b501b2d6c95746bdfaf33ed68078f05133ccc7addc85c69bd28"
+        ]
+    ],
+    "id": [
+        "27",
+        "28",
+        "29"
+    ]
+}
