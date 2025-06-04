@@ -1,0 +1,21 @@
+{
+    "DF-UTS_amounts": [
+        "222671010051793322"
+    ],
+    "DF-UTS_proof": [
+        [
+            "0x43ead560e1a250b9f5b40fc347b4ff5defaab59820fc64963af2bb15b694bae1",
+            "0x0f8bdb25012db801b12f1efaa7bd4566c538e34c46c4fdd77c19403cb7af9859",
+            "0x0e23d6d85d08044c6d1d0bb75cb440847f2985232cb7b559491541c4dd219a98",
+            "0xb81e8b948373bda24b6f06cdda2f8e76e465e8849667fbf661fddc89601a5ed6",
+            "0xd968ad784774fcf2d18a9b24aa47c8542315413adfd261283507f68756c6e1e2",
+            "0x841b9600572a4fffe203cb4fdfdcabbe2bfd3e109485144773c34c514b86dd1d"
+        ]
+    ],
+    "DF-UTS_id": [
+        "0"
+    ],
+    "USX-UTS_amounts": [],
+    "USX-UTS_proof": [],
+    "USX-UTS_id": []
+}
