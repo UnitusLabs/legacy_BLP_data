@@ -1,0 +1,21 @@
+{
+    "amounts": [
+        "9711825748768"
+    ],
+    "id": [
+        "0"
+    ],
+    "proof": [
+        [
+            "0x0b06ac5a5856eed0ed31f76bcf024adca602ae8a7a9a5f6b17cd7e18339e63a8",
+            "0x1b79c875d17f6caec41e321ed1b735d6e019e0467ac122c38c9bc013af42ccd4",
+            "0xbec44501b028c7fc3134443c3b1e1b70feb43131e761f2cf707790849f8e2b8e",
+            "0xbd4f10a0ac90c1f43c21dbc78a3c1897451260650613264879c5aa476b4cff01",
+            "0x9edf51bd053e66ae64cae753d135d07ed008878bba7a255d993f1edffd29c9c1",
+            "0x1e04573d720eaee39dd5c4d71072415c54a5f7fd54091b773ae1987054c7628d",
+            "0xc73a614c5ffabe0a1461b04aa0d807b8638b1ac23890d4efbaac65ce7a3380f1",
+            "0xdbc91c2967893305ac57de40b43dd6a73517f9bb6a5fb6c1cf62a27e1d2b2116",
+            "0xc0a8e6957dfc3eea280894e422855efd85d90520199f0eae6b9222b60da5d8dd"
+        ]
+    ]
+}

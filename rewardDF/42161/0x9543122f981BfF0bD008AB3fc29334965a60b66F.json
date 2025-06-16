@@ -1,0 +1,24 @@
+{
+    "amounts": [
+        "7215882846074351"
+    ],
+    "id": [
+        "0"
+    ],
+    "proof": [
+        [
+            "0xf938cedd2fc6c84ae60fea76532d8660523a275e4318da0c1b474a88709047e2",
+            "0x9f2b4aa0884a4626cc167a3567bd63ce05396dd3b2d90715aadd684c14f00441",
+            "0x15c560f81326b10780bc3631c80b8586bdcee35961cf685b767c4ea2ba803839",
+            "0xa96cc90f6567447d6f95f2ce5eb0c5ba9cc7168bee747e7c85cf2bed068a16de",
+            "0xacd0db9bb7cec58af4cf527cb79a4174cc778dec8037bfcf64dd1eae14413ee0",
+            "0x2b76d1ba922c6dfd996c85ccfe1a29e4a942a6d45f3a6c9a4e8f9ac1472c9f12",
+            "0x931a55472bf8f32a4e58b7d11857e5b703bd6d447532b60c3d0eac728a8701a8",
+            "0x6ff0455cdc9f12f51344a00f151fdc4dc5079702d449f85f534618482a8ed7bd",
+            "0xecdb7049b73d8da660a227a00a2034e33810b698f253805b1055676efda82e62",
+            "0x1b16f3adf64a71503e38f1c6e03c43fe2246ce6b657a68743699d8e018c8f2d0",
+            "0x0d4802e7c40233ad8a1f6766cef9392a0426de698333d471b40bac48fb48f2ac",
+            "0xa770e71bfc6d4d36d71f3826343fcee73c07888a6ac4d9e6c7c04e566e636e55"
+        ]
+    ]
+}

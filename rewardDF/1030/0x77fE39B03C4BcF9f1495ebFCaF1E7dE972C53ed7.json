@@ -1,0 +1,17 @@
+{
+    "amounts": [
+        "2707352616732109"
+    ],
+    "id": [
+        "0"
+    ],
+    "proof": [
+        [
+            "0xd1f37d87961fd0fb20feffc56d230afe3fbc6732f6c8e9b559049c91b7c5f177",
+            "0x81fc7f34d2413cffcddb9bdbc49f06681ce1f8a3b9c6705bf7e740ecbdb3d246",
+            "0xcd5786f25185950ece4f28a76e69af3e9986750f85057452b219b62497252a49",
+            "0x2db6f58da14395c2a7a22831c4f92f5c0dafe16ecae1f74050de7d596ef4f860",
+            "0xd59a3250e0cb3a5e88ff358bbd9c6bb3944908463b182507e3a798515e6d771c"
+        ]
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "amounts": [
+        "2175970900292829337"
+    ],
+    "id": [
+        "0"
+    ],
+    "proof": [
+        [
+            "0x253e9f566b37dbe04a13943a6dc090e756d3cbb86889661965416f7aa617d745",
+            "0x5384cc2b0c9ca0e072e9f9b0b29cd948f95a41f9fc6ee3e18233a6cc3e07f009",
+            "0xb27d2435f484a747dbffbdc123ea8c49b0d392ce6f59e2b30b0cf849e9cf53b0",
+            "0x45029b5ce24203112e340c595ec3c0a27e706869344e71f56ff4ed60a40ab650",
+            "0x130755a668e676b930a0c264f5f84a3115e838c883035f15c4dcc20e2d99c407",
+            "0x5a6029b7fb886f77bd5d267dae4147b92ca17ceb7eea7b1691107d0b6d9bbcce",
+            "0xc73a614c5ffabe0a1461b04aa0d807b8638b1ac23890d4efbaac65ce7a3380f1",
+            "0xdbc91c2967893305ac57de40b43dd6a73517f9bb6a5fb6c1cf62a27e1d2b2116",
+            "0xc0a8e6957dfc3eea280894e422855efd85d90520199f0eae6b9222b60da5d8dd"
+        ]
+    ]
+}
